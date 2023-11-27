@@ -9,14 +9,7 @@ This starter code is meant to help you get started - feel free to change ANYTHIN
 1. Fork this repo and import your copy into Replit.
 2. Go to the `<title>` tag and change it to your name and "Unit 2 Project" (For instance if your name is Janice, the title should be "Janice_Unit 2 Project")
 
-## Project Task List
 
-
-### Project Plan
-- Clone or Fork the Starter Code.
-- Complete the “Brainstorming” section.
-- Complete the “Research” section.
-- Complete the “Choose a Wireframe” section.
 
 ### HTML
 Add HTML elements to your page, including but not limited to:
@@ -25,6 +18,16 @@ Add HTML elements to your page, including but not limited to:
 - Images
 - Links
 - Lists
+
+
+
+
+
+
+
+
+
+
 
 ### CSS
 - Include a background color
