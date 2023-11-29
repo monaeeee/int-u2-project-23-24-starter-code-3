@@ -1,6 +1,13 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-    background-color: black;
-    color: white;
-    padding: 128px 16px;
+  background-color: #ffacc5;
+  color: white;
+  padding: 128px 16px;
+  font-family: 'Rowdies', sans-serif;
+}
+
+img {
+  /* border-color: black; */
+  border: solid black;
+  border-radius: 15px;
 }
