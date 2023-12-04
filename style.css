@@ -3,11 +3,22 @@ header {
   background-color: #ffacc5;
   color: white;
   padding: 128px 16px;
-  font-family: 'Rowdies', sans-serif;
+  font-family:Rubik+Bubbles;
 }
 
 img {
   /* border-color: black; */
   border: solid black;
   border-radius: 15px;
+  width:300px;
 }
+body{
+  background-color: #ffacc5 ;
+}
+p{
+  color:white;}
+h1{
+  color:white;}
+
+.first-pic{
+  width:400px;}
